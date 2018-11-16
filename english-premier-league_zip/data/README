@@ -1,0 +1,4 @@
+Description of each file:
+1. season.py it converts each season summary file(e.g. season-1718_csv.csv) to the file which stores the total points of each team in that season(e.g "points season-1718_csv.csv")
+
+2. final_score.py it gets total score of teams on all seasons in a weighted manner and stores in total_points.csv
